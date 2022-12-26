@@ -52,7 +52,7 @@ This is our game project for our final lab in our Object-Oriented Programming co
 |   1   | Nguyen Thi Thanh Thao | ITITIU20310 |ITITIU20310@student.hcmiu.edu.vn          | [thanhthao](https://github.com/nanalynh)                    | 
 |   2   | Trinh Thi Nhu Quynh   | ITITIU20291 |ititiu20291@student.hcmiu.edu.vn 	 | [nhu quynh](https://github.com/nhuquynh875) 		       |      
 |   3   | Dang Thanh Mai Thi    | ITITSB20006 |ititsb20006@student.hcmiu.edu.vn          | [Mai Thi](https://github.com/LanThanh20)                    |
-|   4   |  Mai Van Hung         | ITITIU20209 | ititiu20209@student.hcmiu.edu.vn         | [Huy](https://github.com/ITITIU20209n)                      |
+|   4   |  Mai Van Hung         | ITITIU20209 | ititiu20209@student.hcmiu.edu.vn         | [Hung](https://github.com/ITITIU20209n)                     |
 |   5   | Nguyen Đoan Minh Khoa | ITITIU20231 | ititiu20231@student.hcmiu.edu.vn         | [Khoa](  https://github.com/khoanguyennnn )		       |
 
 
