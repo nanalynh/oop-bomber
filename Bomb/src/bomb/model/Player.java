@@ -25,6 +25,16 @@ public class Player {
     public static final int UP=2;
     public static final int DOWN=3;
     private int imageIndex=0;
+     public final Image[] IMAGES_HIEUUNG={
+            new ImageIcon(getClass().getResource("/res/drawable/images/hieuUng_11.png")).getImage(),
+            new ImageIcon(getClass().getResource("/res/drawable/images/hieuUng_12.png")).getImage(),
+            new ImageIcon(getClass().getResource("/res/drawable/images/hieuUng_13.png")).getImage(),
+            new ImageIcon(getClass().getResource("/res/drawable/images/hieuUng_14.png")).getImage(),
+            new ImageIcon(getClass().getResource("/res/drawable/images/hieuUng_15.png")).getImage(),
+            new ImageIcon(getClass().getResource("/res/drawable/images/hieuUng_16.png")).getImage(),
+            new ImageIcon(getClass().getResource("/res/drawable/images/hieuUng_17.png")).getImage(),
+            new ImageIcon(getClass().getResource("/res/drawable/images/hieuUng_18.png")).getImage(),
+    };
 
 
     public final Image[] IMAGES_PLAYER_LEFT= {
@@ -132,7 +142,7 @@ public class Player {
         }
         isPlayerRun=false;
         imageIndex++;
-
+        g2d.drawImage(IMAGES_HIEUUNG[imageIndex/7%IMAGES_HIEUUNG.length],x-5,y,SIZE+20,SIZE+20,null);
     }
 
     public Rectangle getRect(){
