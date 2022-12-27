@@ -16,9 +16,9 @@ public class Player {
     private int orient;
     public Image image;
     private int soBoom=2;
-    private int speed=4;//i= 2
+    private int speed=4;
     private int timeMove;
-    private int lenghBoomBang=3;
+    private int lenghBoomBang=1;
     private boolean isPlayerRun= false;
     public static final int LEFT=0;
     public static final int RIGHT=1;
